@@ -1,0 +1,23 @@
+{
+  "name": "craigslist_scraper",
+  "version": "1.0.0",
+  "description": "This is going to be a web scraper for craigslist",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SavedThunder/CraigsList_Scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SavedThunder/CraigsList_Scraper/issues"
+  },
+  "homepage": "https://github.com/SavedThunder/CraigsList_Scraper#readme",
+  "dependencies": {
+    "json": "^9.0.6",
+    "osmosis": "^1.1.10"
+  }
+}
