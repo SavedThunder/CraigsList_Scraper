@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/SavedThunder/CraigsList_Scraper#readme",
   "dependencies": {
-    "json": "^9.0.6",
+    "json": "^10.0.0",
     "osmosis": "^1.1.10"
   }
 }
